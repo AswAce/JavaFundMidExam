@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cd4ac0e-ac32-423a-936a-41d8e54c7080" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YAn9sZjUhgJByS5yGgff9uwLsi" />
+  <component name="PropertiesComponent">
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="debugger.stepping" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ArcheryTournament">
+    <configuration name="ArcheryTournament" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.asen.test.ArcheryTournament" />
+      <module name="midExamPreparationTwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.asen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperienceGaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.asen.test.ExperienceGaining" />
+      <module name="midExamPreparationTwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.asen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FriendlistMaintenance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.asen.test.FriendlistMaintenance" />
+      <module name="midExamPreparationTwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.asen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TanksCollector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.asen.test.TanksCollector" />
+      <module name="midExamPreparationTwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.asen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheHuntingGames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.asen.test.TheHuntingGames" />
+      <module name="midExamPreparationTwo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.asen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TheHuntingGames" />
+      <item itemvalue="Application.ExperienceGaining" />
+      <item itemvalue="Application.FriendlistMaintenance" />
+      <item itemvalue="Application.TanksCollector" />
+      <item itemvalue="Application.ArcheryTournament" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArcheryTournament" />
+        <item itemvalue="Application.FriendlistMaintenance" />
+        <item itemvalue="Application.TanksCollector" />
+        <item itemvalue="Application.ExperienceGaining" />
+        <item itemvalue="Application.TheHuntingGames" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cd4ac0e-ac32-423a-936a-41d8e54c7080" name="Default Changelist" comment="" />
+      <created>1582394117949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582394117949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/asen/test/LastStop.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/asen/test/HelloFrance.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/midExamPreparationTwo$WizardPoker.ic" NAME="WizardPoker Coverage Results" MODIFIED="1582576758162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.asen.test.*</FILTER>
+    </SUITE>
+  </component>
+</project>
